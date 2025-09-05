@@ -1,10 +1,10 @@
 <picture>
   <source
-    media="dark"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JustinBouffard/JustinBouffard/github-breakout/images/breakout-dark.svg"
   />
   <source
-    media="light"
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/JustinBouffard/JustinBouffard/github-breakout/images/breakout-light.svg"
   />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/JustinBouffard/JustinBouffard/github-breakout/images/breakout-light.svg" />
