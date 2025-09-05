@@ -20,7 +20,7 @@ jobs:
         with:
           github_username: JustinBouffard
           github_token: ${{ secrets.PAT_TOKEN }}
-          enable_ghost_bricks: false
+          enable_ghost_bricks: true
 
       - name: Move generated SVGs to temp
         run: |
