@@ -1,7 +1,7 @@
 <picture>
   <source
     media="dark"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/github-breakout/images/breakout-dark.svg"
+    srcset="https://raw.githubusercontent.com/JustinBouffard/JustinBouffard/github-breakout/images/breakout-dark.svg"
   />
   <source
     media="light"
